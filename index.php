@@ -1,6 +1,3 @@
 <?php
 
-phpinfo();
-
-
-
+exit('Hello June');
